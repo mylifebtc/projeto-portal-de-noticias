@@ -19,13 +19,14 @@
   font: var(--h1);
 }
 
-.text-x1 {
+.text-xl {
   font: var(--h2);
 }
 
-text-lg {
+.text-lg {
   font: var(--h3);
 }
-text-sm {
+
+.text-sm {
   font: var(--text-sm);
 }
